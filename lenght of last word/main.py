@@ -7,3 +7,4 @@ class Solution:
 a = Solution()
 
 print(a.lengthOfLastWord("Hello World"))
+
