@@ -7,3 +7,6 @@ Welcome to the Leetcode Solutions 🚀 repository! This collection contains well
 📂 Problem Solutions: Step-by-step implementations of common Leetcode problems.
 🛠 Efficient Algorithms: Optimized solutions with explanations where necessary.
 📦 Organized Structure: Problems categorized for easy navigation.
+
+
+-Created by Azimboyev Faxriyor 
